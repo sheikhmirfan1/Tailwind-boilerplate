@@ -7,7 +7,7 @@
     "watch":"tailwindcss -i ./src/tailwind.css -o ./dist/tailwind.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Sheikh",
   "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.3.5"
